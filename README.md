@@ -19,7 +19,7 @@ The materials included here allow researchers to replicate the descriptive stati
     * **Contents:** Lists the top keywords (and their probability weights) for each of the 12 identified topics concerning talent policy. This corresponds to **Table 2** in the manuscript.
 
 ### 2. Code Files
-* **`dataanlysis.do`
+* **`Replication_Code.do`**
     * **Description:** The Stata script to reproduce all tables and regression results.
     * **Functionality:**
         * Imports `City_Year_Panel_Data.xlsx`.
